@@ -10,7 +10,7 @@ title: Viaplay Swift Style Guide
 description: > # > means to ignore newlines until the next unindented line
   Viaplay's Swift style guide.
 timezone: America/Los_Angeles
-baseurl: "/swift"
+baseurl: "/swift-style-guide"
 url: "https://nentgroup.github.io/swift-style-guide"
 
 exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, vendor, README.md]
